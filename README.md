@@ -40,7 +40,7 @@ User sends news&posts:
 - pip install -r requirements.txt
 
 # Usage:
-- Edit config.py
+- edit config.py
 - run python3 main.py
 
 All rights reserved ©Matthew ©nerklion ©2023
