@@ -36,3 +36,5 @@ User sends news&posts:
 # Usage:
 - Edit config.py
 - run python3 main.py
+
+All rights reserved ©Matthew ©nerklion ©2023
